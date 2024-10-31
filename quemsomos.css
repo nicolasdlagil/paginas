@@ -1,0 +1,33 @@
+header{
+    background-color: #043825;
+    padding: 100px;
+   
+   
+}
+#logo{
+    width: 200px;
+    height: 50px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    align-items: flex-start;
+    display: flex;
+}
+.marrom{
+    background-color:  #2b0a00;
+    padding: 15px;
+}
+.amarelo{
+    background-color: #ffb624;
+    padding: 7px;
+}
+ 
+   
+ 
+#menus_titulo{
+    color: #FFB624;
+}
+ 
+#menus_cafes{
+    color: #FFF;
+}
